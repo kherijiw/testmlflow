@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/wkheriji/Bureau/Moove_Urbain/formation/iris/notebook/mlruns/682762655028259086/models/m-f33fc2fb92684ed89ba640ad097c5656/artifacts
+creation_timestamp: 1764077604512
+experiment_id: '682762655028259086'
+last_updated_timestamp: 1764077611428
+model_id: m-f33fc2fb92684ed89ba640ad097c5656
+model_type: null
+name: model
+source_run_id: f32f063d06c24e50a29dd1f895f1db67
+status: 2
+status_message: null

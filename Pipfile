@@ -8,6 +8,7 @@ numpy = "*"
 scikit-learn = "*"
 joblib = "*"
 pandas = "*"
+mlflow = "*"
 
 [dev-packages]
 

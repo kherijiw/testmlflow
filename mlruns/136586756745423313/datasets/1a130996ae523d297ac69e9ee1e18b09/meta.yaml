@@ -1,0 +1,11 @@
+digest: 33b92088
+name: dataset
+profile: '{"num_rows": 120, "num_elements": 600}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Unnamed: 0", "required": true},
+  {"type": "double", "name": "sepal length (cm)", "required": true}, {"type": "double",
+  "name": "sepal width (cm)", "required": true}, {"type": "double", "name": "petal
+  length (cm)", "required": true}, {"type": "double", "name": "petal width (cm)",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "wkheriji", "mlflow.source.name": "src\\train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "bcf564c81d94d1733b7cb5cbe96ebe1d3bcea315"}}'
+source_type: code

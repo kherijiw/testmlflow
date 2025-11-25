@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/136586756745423313/fc164f551159482ea8969deb284ef5d5/artifacts
+end_time: 1764084074441
+entry_point_name: ''
+experiment_id: '136586756745423313'
+lifecycle_stage: active
+run_id: fc164f551159482ea8969deb284ef5d5
+run_name: loud-moose-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764084058921
+status: 3
+tags: []
+user_id: wkheriji

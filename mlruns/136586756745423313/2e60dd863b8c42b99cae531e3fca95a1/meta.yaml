@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/136586756745423313/2e60dd863b8c42b99cae531e3fca95a1/artifacts
+end_time: 1764084372615
+entry_point_name: ''
+experiment_id: '136586756745423313'
+lifecycle_stage: active
+run_id: 2e60dd863b8c42b99cae531e3fca95a1
+run_name: marvelous-gnat-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764084365960
+status: 3
+tags: []
+user_id: wkheriji
