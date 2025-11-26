@@ -1,0 +1,7 @@
+name: iris-project
+
+python_env: python_env.yaml
+
+entry_points:
+  main:
+    command: "pipeline.bat"

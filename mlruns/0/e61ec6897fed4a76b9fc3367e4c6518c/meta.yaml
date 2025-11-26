@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/wkheriji/Bureau/Moove_Urbain/formation/iris/mlruns/0/e61ec6897fed4a76b9fc3367e4c6518c/artifacts
+end_time: 1764150775792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e61ec6897fed4a76b9fc3367e4c6518c
+run_name: bittersweet-ant-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764150751249
+status: 3
+tags: []
+user_id: wkheriji
